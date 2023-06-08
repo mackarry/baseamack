@@ -21,7 +21,7 @@ media/
 
 # Archivos de dependencias de Python generados por pip
 pip-lock.txt
-requirements.txt
+
 
 # Archivos de base de datos
 db.sqlite3
