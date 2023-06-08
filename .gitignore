@@ -1,0 +1,30 @@
+# Archivos y directorios generados por el entorno de desarrollo
+env/
+*.pyc
+__pycache__/
+
+# Archivos de configuración local
+config.py
+
+# Archivos de logs
+logs/
+
+# Archivos y directorios generados por IDEs o editores de texto
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos estáticos y directorio de medios
+static/
+media/
+
+# Archivos de dependencias de Python generados por pip
+pip-lock.txt
+requirements.txt
+
+# Archivos de base de datos
+db.sqlite3
+*.db
+
+# Otros archivos y directorios que deseas ignorar
